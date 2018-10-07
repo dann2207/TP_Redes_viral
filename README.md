@@ -16,3 +16,5 @@ https://labrosa.ee.columbia.edu/millionsong/pages/getting-dataset (dataset GRATI
 https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#51d8afa1b54d (muchos datasets GRATIS)
 
 https://gist.github.com/hahnicity/45323026693cdde6a116 (un dataset tipo API gratuito)
+
+https://www.quandl.com
