@@ -18,3 +18,5 @@ https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-fr
 https://gist.github.com/hahnicity/45323026693cdde6a116 (un dataset tipo API gratuito)
 
 https://www.quandl.com
+
+https://towardsdatascience.com/catching-that-flight-visualizing-social-network-with-networkx-and-basemap-ce4a0d2eaea6 (OpenFlight database)
